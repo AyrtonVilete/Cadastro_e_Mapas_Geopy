@@ -1,17 +1,11 @@
-Abrir o Index.py o mesmo já está com todas as funcionalidades integradas a ele.
+Abrir o Tela principal.py o mesmo já está com todas as funcionalidades integradas a ele.
 
 Funcionamento:
 
 Está realizando a inserção de dados no campo de registro.
 
-Puxando os dados registrados no SQLite para o mapa gerado em HMTL
+Puxando os dados registrados no SQLite para o mapa gerado em HMTL.
 
-Melhorias:
+Realizada a criação de um botão funcional para retornar a tela principal apos a inserção dos dados.
 
-Informar o número de vagas disponiveis no estacionamento.
-
-Corrigir botão mapa que fica cortado no menu do app.
-
-Tentativa:
-
-Realizar a exclusão dos dados registrados quando um for enviado com alguma informação errada.
+Botão para cadastro de usuarios e abertura do mapa com os pontos da tela de registro funcionais.
